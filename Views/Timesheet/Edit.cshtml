@@ -1,0 +1,69 @@
+﻿@using AgenziaConsulenzaAMM.MVC.Models.Timesheet
+@model TimesheetViewModel
+
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Timesheet</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="NumeroOre" class="control-label"></label>
+                <input asp-for="NumeroOre" class="form-control" />
+                <span asp-validation-for="NumeroOre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataTimesheet" class="control-label"></label>
+                <input asp-for="DataTimesheet" class="form-control" />
+                <span asp-validation-for="DataTimesheet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdAttivita" class="control-label"></label>
+                @Html.DropDownListFor(model => 
+
+                   model.IdAttivita,
+
+                   ViewBag.Attivities as List<SelectListItem>, 
+
+                   "-- Seleziona un'attività --",
+
+                   new { @class = "form-control" })
+                @*<select asp-for="IdAttivita" class="form-control" asp-items="ViewBag.IdAttivita"></select>*@
+                <span asp-validation-for="IdAttivita" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdDipendente" class="control-label"></label>
+                @Html.DropDownListFor(model => 
+
+                   model.IdDipendente,
+
+                   ViewBag.Dipendenti as List<SelectListItem>, 
+
+                   "-- Seleziona un dipendente --",
+
+                   new { @class = "form-control" })
+                @*<select asp-for="IdDipendente" class="form-control" asp-items="ViewBag.IdDipendente"></select>*@
+                <span asp-validation-for="IdDipendente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
