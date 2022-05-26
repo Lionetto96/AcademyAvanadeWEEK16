@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AgenziaConsulenzaAMM.MOCK/1.0.0": {
+        "dependencies": {
+          "AgenziaConsulenzaAMM.Core": "1.0.0"
+        },
+        "runtime": {
+          "AgenziaConsulenzaAMM.MOCK.dll": {}
+        }
+      },
+      "AgenziaConsulenzaAMM.Core/1.0.0": {
+        "runtime": {
+          "AgenziaConsulenzaAMM.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgenziaConsulenzaAMM.MOCK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgenziaConsulenzaAMM.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

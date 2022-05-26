@@ -1,0 +1,15 @@
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\bin\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.deps.json
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\bin\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.dll
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\bin\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.pdb
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\bin\Debug\net5.0\AgenziaConsulenzaAMM.Core.dll
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\bin\Debug\net5.0\AgenziaConsulenzaAMM.Core.pdb
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.csproj.AssemblyReference.cache
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.AssemblyInfoInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.AssemblyInfo.cs
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.csproj.CoreCompileInputs.cache
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.csproj.CopyComplete
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.dll
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\refint\AgenziaConsulenzaAMM.MOCK.dll
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\AgenziaConsulenzaAMM.MOCK.pdb
+C:\Users\alessia.lionetto\source\repos\Week_16\AcademyA_EsercitazioneWeek8_SocietaConsulenzaAMM\AgenziaConsulenzaAMM\AgenziaConsulenzaAMM.MOCK\obj\Debug\net5.0\ref\AgenziaConsulenzaAMM.MOCK.dll
